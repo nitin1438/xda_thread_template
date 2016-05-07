@@ -1,0 +1,8 @@
+![](http://s21.postimg.org/w9nhupo1j/user4968383_pic43635_1391879040.png)
+
+#XDA thread template
+---------------
+This repository includes the template for making a XOSP thread on XDA. Every maintainer wanting to have official support, other than having everything working MUST also have the thread as in this template. 
+
+---------------
+Feel free to make pull request if you think the template need some changes. 

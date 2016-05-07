@@ -14,7 +14,7 @@
  */[/code]
 
 
-[LEFT][IMG]intro_banner.png[/IMG][/LEFT]
+[LEFT][IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/intro_banner.png[/IMG][/LEFT]
 
 
 [SIZE="4"]
@@ -32,7 +32,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/LIST]
 [/SIZE]
 
-[IMG]features_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/features_banner.png[/IMG]
 
 
 [SIZE="4"]
@@ -110,7 +110,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/LIST]
 [/SIZE]
 
-[IMG]bugs_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/bugs_banner.png[/IMG]
 
 [SIZE="4"]
 [LIST]
@@ -122,7 +122,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/SIZE]
 
 
-[IMG]installation_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/installation_banner.png[/IMG]
 
 
 <!-- Your Installation process -->
@@ -153,7 +153,7 @@ The project started growing again so with the Release 4 the project will be comp
 [*] Reboot
 [/LIST]
 
-[IMG]links_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/links_banner.png[/IMG]
 
 [SIZE=4] 
 [LIST]
@@ -164,7 +164,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/LIST]
 [/SIZE]
 
-[IMG]downloads_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/downloads_banner.png[/IMG]
 
 <!-- Example of download section -->
 [SIZE=4]
@@ -185,7 +185,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/SIZE]
 
 
-[IMG]sources_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/sources_banner.png[/IMG]
 
 [SIZE=4]
 [LIST]
@@ -201,7 +201,7 @@ The project started growing again so with the Release 4 the project will be comp
 [/LIST]
 [/SIZE]
 
-[IMG]credits_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/credits_banner.png[/IMG]
 
 <!-- Credits TO BE INCLUDED -->
 [SIZE=4]

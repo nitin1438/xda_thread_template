@@ -164,6 +164,7 @@ The project started growing again so with the Release 4 the project will be comp
 
 [SIZE=4] 
 [LIST]
+[*] [URL="http://xosp-project.github.io/"]Visit our website ![/URL]
 [*] [URL="https://plus.google.com/u/0/communities/117671498272072664538"]Join our community on G+ ![/URL]
 [*] [URL="https://telegram.me/xosp_channel"]Follow up my latest news on the Official Telegram channel![/URL]
 [*] [URL="https://github.com/XOSP-Project/platform_manifest"]Compile XOSP for your device ![/URL]

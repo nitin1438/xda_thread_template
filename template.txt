@@ -152,14 +152,13 @@ The project started growing again so with the Release 4 the project will be comp
 [*] Reboot
 [/LIST]
 
-[CENTER][B]I'll not support users and answer questions from users which:[/B]
-[/CENTER][CENTER]
+[B]I'll not support users and answer questions from users which:[/B]
+
 - Are running a custom kernel
 - Have flashed mods
 - Modified system files
 - Didn't follow my instructions
 - Are unfriendly
-[/CENTER]
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/links_banner.png[/IMG]
 

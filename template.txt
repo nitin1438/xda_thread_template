@@ -140,6 +140,15 @@ The project started growing again so with the Release 4 the project will be comp
 [/LIST]
 
 
+[CENTER][B]I'll not support users and answer questions from users which:[/B]
+[/CENTER][CENTER]
+- Are running a custom kernel
+- Have flashed mods
+- Modified system files
+- Didn't follow my instructions
+- Are unfriendly
+[/CENTER]
+
 <!-- Your Upgrading process -->
 <!-- This is an example for Zenfone 2 device -->
 [B]Upgrading from earlier release or revision of XOSP:[/B]

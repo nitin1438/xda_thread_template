@@ -21,13 +21,13 @@
 [LIST]
 [*][B] What is XOSP and how was it born?[/B]
 [LIST]
-[*] XOSP basically which stands for the Xperia Open Source Project was a project originally created by me (@nilac) for the Galaxy S+ (my old device) and the project was created like 2 years ago when that time XOSP wasn't even existing. It was just S+ Reborn. The main idea was to create a custom minimal Xperia based ROM, by including the essential things which a user would normally use from a ROM. 
-The S+ Reborn became to be a big success because it was eventually ported on different Xperia Phones and some other Samsung devices so from there the XOSP project was founded. From the XOSP Project also the Reborn add-ons were created featuring with an Aroma Installer. I worked on the project for 2 years trying always to improve it constantly, eventually for the fact that LP on my Galaxy S+ became to be quite buggy i decided to stop the development and for about half of year the project was left in standby till I decided to bring it back again on the Zenfone 2 devices. 
-The project started growing again so with the Release 4 the project will be completely refactored to XOSP
+[*] XOSP stands for the Xperia Open Source Project. The project was initially created by me (@nilac) for the Galaxy S+ (my old device) years ago. Back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperia specific apps and various tweaks users would expect from a custom ROM.
+S+ Reborn became a success and was eventually ported to different devices so from there I rebranded and XOSP project was founded. I worked on the project for 2 years always trying to improve it. Eventually, Because of the fact Lollipop was buggy on my Galaxy S+ (Which I maintained xosp for at the time) I decided to take a break from development until I got my hands on the zenfone 2 which from there xosp development has continued ever since.
 [/LIST]
 [*][B] Revisions and Releases[/B]
 [LIST]
-[*] I've got a different type of releasing, I will not provide weekly builds but just let me show you how the revisions and release type works: The revisions refers like to a sort of Nightly thing I mean the changes included in the ROM are small not as a Release one. All the releases got 5 revisions. So the Release is something even bigger right? Hell yeah! When a new Release is released expect many improvements or new features :)
+Revisions include small changes such as bug fixes/improvments etc.. (there are 5 revisions until a new Release is made)
+Releases are the final "stable" builds with all new planned features implemented and bugs fixed.
 [/LIST]
 [/LIST]
 [/SIZE]
@@ -127,7 +127,7 @@ The project started growing again so with the Release 4 the project will be comp
 
 <!-- Your Installation process -->
 <!-- This is an example for Zenfone 2 device -->
-[B]First time installing XOSP based to your Zenfone 2, or coming from another ROM?[/B]
+[B]First time installing XOSP on your Zenfone 2, or coming from another ROM?[/B]
 [LIST]
 [*] Make sure your Bootloader is unlocked and you're running the latest TWRP from [URL="http://forum.xda-developers.com/zenfone2/development/z00az008-zenfone-2-t3265236"]Here[/URL]
 [*] Download latest build,XOSPApps and GApps
@@ -157,8 +157,8 @@ The project started growing again so with the Release 4 the project will be comp
 - Are running a custom kernel
 - Have flashed mods
 - Modified system files
-- Didn't follow my instructions
-- Are unfriendly
+- Didn't follow proper instructions
+- Have not read through the thread to see if their question/issue has already been addressed
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/links_banner.png[/IMG]
 
@@ -185,7 +185,7 @@ The project started growing again so with the Release 4 the project will be comp
 [LIST]
 [*][URL="https://goo.gl/WEOsnW"]Z008 XOSP Builds on Basketbuild[/URL]
 [/LIST]
-<!-- For XOSPApps don't try to make other builds or to mirror them, use the ones i provide on BasketBuild! -->
+<!-- For XOSPApps Don't mirror builds or modify these ones then release as your own! -->
 [*][URL="https://basketbuild.com/devs/XOSP/XOSPApps"]XOSPApps[/URL]
 [*] [URL="https://github.com/XOSP-Project/android_vendor_reborn/blob/RL3/README.mkdn"]ChangeLOG[/URL]
 [*] [URL="http://opengapps.org/"]GApps[/URL] (I suggest you to use the Nano package)

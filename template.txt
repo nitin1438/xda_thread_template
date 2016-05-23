@@ -21,7 +21,7 @@
 [LIST]
 [*][B] What is XOSP and how was it born?[/B]
 [LIST]
-[*] XOSP stands for the Xperia Open Source Project. The project was initially created by me (@nilac) for the Galaxy S+ (my old device) years ago. Back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperi specific apps and various tweaks users would expect from a custom ROM.
+[*] XOSP stands for the Xperia Open Source Project. The project was initially created by me (@nilac) for the Galaxy S+ (my old device) years ago. Back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperia specific apps and various tweaks users would expect from a custom ROM.
 S+ Reborn became a success and was eventually ported to different devices so from there I rebranded and XOSP project was founded. I worked on the project for 2 years trying always to improve it. Eventually, Because of the fact Lollipop was buggy on my Galaxy S+ (Which I maintained xosp for at the time) I deicded to take a break from development until I got my hands on the zenfone 2 which from there xosp development has continued ever since.
 [/LIST]
 [*][B] Revisions and Releases[/B]
